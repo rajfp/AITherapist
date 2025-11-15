@@ -1,13 +1,9 @@
 # AI Therapist - Your Personal AI Coach & Therapist
 
 A beautiful, colorful Android app that acts as your personal AI coach and therapist. Reflect on your day, log what you did and didn't do, share your feelings, and receive personalized AI-powered suggestions for improvement.
-
-![alt text](https://github.com/rajfp/AITherapist/blob/main/Screenshot_20251115_105238.png)
-
-![alt text](https://github.com/rajfp/AITherapist/blob/main/Screenshot_20251115_113240.png)
-
-
-![alt text](https://github.com/rajfp/AITherapist/blob/main/Screenshot_20251115_113248.png)
+<img src="https://github.com/rajfp/AITherapist/blob/main/Screenshot_20251115_105238.png" width="400" height="800">
+<img src="https://github.com/rajfp/AITherapist/blob/main/Screenshot_20251115_113240.png" width="400" height="800">
+<img src="https://github.com/rajfp/AITherapist/blob/main/Screenshot_20251115_113248.png" width="400" height="800">
 
 ## 🌟 Features
 
