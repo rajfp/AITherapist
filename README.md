@@ -2,6 +2,13 @@
 
 A beautiful, colorful Android app that acts as your personal AI coach and therapist. Reflect on your day, log what you did and didn't do, share your feelings, and receive personalized AI-powered suggestions for improvement.
 
+![alt text](https://github.com/rajfp/AITherapist/blob/main/Screenshot_20251115_105238.png)
+
+![alt text](https://github.com/rajfp/AITherapist/blob/main/Screenshot_20251115_113240.png)
+
+
+![alt text](https://github.com/rajfp/AITherapist/blob/main/Screenshot_20251115_113248.png)
+
 ## 🌟 Features
 
 - **Daily Reflection**: Log what you did, what you didn't do, and how you felt
